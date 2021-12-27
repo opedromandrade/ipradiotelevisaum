@@ -370,7 +370,7 @@ http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s15270/images/logod.png",Rádio Orbital
 http://stream.radio.com.pt:8401/;stream/1
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://smoothfm.iol.pt/images/logo-SFM-red.svg",Rádio Smooth FM
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-smooth-fm_0.png",Rádio Smooth FM
 https://media1.mcr.iol.pt/livefm/smooth/livefm/smooth_128k/chunks.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",Vodafone.FM
