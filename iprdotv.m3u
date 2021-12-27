@@ -352,7 +352,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade FM
 https://media1.mcr.iol.pt/livefm/cidade/livefm/cidade_128k/chunks.m3u8
 
-
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade Hip Hop
 https://media1.mcr.iol.pt/wrcidade/cidhiphop.stream/playlist.m3u8
 
