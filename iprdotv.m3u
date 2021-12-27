@@ -359,7 +359,7 @@ https://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
 https://21313.live.streamtheworld.com/MEGA_HITSAAC
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
-https://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+https://media1.mcr.iol.pt/livefm/comercial/livefm/comercial_128k/chunks.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-radiotime-logos.tunein.com/s18720d.png",Rádio RFM
 https://21313.live.streamtheworld.com/RFMAAC
