@@ -350,12 +350,14 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Rádio Cidade FM
-https://mcrwowza4.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
 https://media1.mcr.iol.pt/livefm/cidade/livefm/cidade_128k/chunks.m3u8
 
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Rádio Cidade Hip Hop
-https://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
+https://media1.mcr.iol.pt/wrcidade/cidhiphop.stream/playlist.m3u8
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Rádio Cidade Latina
+https://media1.mcr.iol.pt/wrcidade/cidlatina.stream/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Rádio Mega Hits
 https://21313.live.streamtheworld.com/MEGA_HITSAAC
