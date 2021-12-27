@@ -380,7 +380,7 @@ https://media1.mcr.iol.pt/livefm/vodafone/livefm/vodafone_128k/chunks.m3u8
 http://centova.radios.pt:8495/;listen.pls
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s81784/images/logod.jpg",Rádio M80
-http://mcrwowza6.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+https://media1.mcr.iol.pt/livefm/m80/livefm/m80_128k/chunks.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiot.fi/img/channel-logos/radio-nostalgia.png",Rádio Nostalgia
 http://centova.radios.pt:8435
