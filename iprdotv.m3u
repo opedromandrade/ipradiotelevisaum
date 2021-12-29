@@ -12,7 +12,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
 https://live.impresa.pt/live/sic/sic.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMSAxMDowOjIgUE0maGFzaF92YWx1ZT1TT3JtRWlrQUlGVFBFMFd1WUNYaE5nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTk0ODI3YjctNTQ0ZS00YmJmLThlYjktNTM0NDkyYjUxNDI5
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSAxMDowOjIgQU0maGFzaF92YWx1ZT02b3Q1enZlMGZTM1FpK3B4alhEaHV3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTkyMDE2YzEtYjI1Mi00ZTU5LThlZTUtNmQ2MTRlYWVmMmVh
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 3" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
@@ -21,7 +21,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://live.impresa.pt/live/sicnot/sicnot.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNN-PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMSAxMDowOjIgUE0maGFzaF92YWx1ZT1jdTkvbU1FS05xZW11ZWlPODVrbjZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTQ2ZDAxNmYtNzBmNC00YjkzLWJkOGYtNmJjNmY3Y2Y5Yjgw
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSAxMDowOjIgQU0maGFzaF92YWx1ZT1zbnBSZHJvVmpjNThYZGMxRWVjK3dBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmI4MjE5ZTYtZjg5Yy00ZjgzLWFlMjEtNGUwZjM1NjFkYThh
 
 #EXTINF:-1 group-title="TV" tvg-id="Euronews" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -51,7 +51,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVII" tvg-logo="",TVI Internacional
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMSAxMDowOjQgUE0maGFzaF92YWx1ZT1RajRTNjJDZ3ByQUlONEpPUmJwS2V3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTMwNGFjNzktYjU4MC00MTBhLWExMzUtMDUzZmNkMjFiY2Jl
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSAxMDowOjMgQU0maGFzaF92YWx1ZT1yRjg4YngvVEF2bUZDMEQyTG9DbUd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDU3NWU0MDItZTJkOC00OWIxLTliM2QtMzIwOGEzMTVlYWUx
 
 #EXTINF:-1 group-title="TV" tvg-id="PORTO CANAL" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
