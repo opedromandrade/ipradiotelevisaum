@@ -255,7 +255,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai Racing 1 HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
